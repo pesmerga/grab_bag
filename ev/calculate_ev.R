@@ -1,5 +1,6 @@
 library(ggplot2)
 library(scales)
+library(data.table)
 
 # X is a random variable representing two outcomes
 # p_price is the implied odds we get from the book
